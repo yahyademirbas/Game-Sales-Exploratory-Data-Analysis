@@ -1295,13 +1295,3 @@ plt.show()
 ![png](/images/output_20_2.png)
     
 
-
-
-```python
-
-```
-
-
-```python
-
-```
