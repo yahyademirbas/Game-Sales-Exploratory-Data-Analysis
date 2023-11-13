@@ -794,7 +794,7 @@ plt.show()
 
 
     
-![png](output_7_1.png)
+![png](/images/output_7_1.png)
     
 
 
@@ -834,7 +834,7 @@ plt.show()
 
 
     
-![png](output_8_1.png)
+![png](/images/output_8_1.png)
     
 
 
@@ -907,7 +907,7 @@ plt.show()
 
 
     
-![png](output_10_1.png)
+![png](/images/output_10_1.png)
     
 
 
@@ -952,7 +952,7 @@ plt.show()
 
 
     
-![png](output_11_1.png)
+![png](/images/output_11_1.png)
     
 
 
@@ -996,7 +996,7 @@ plt.show()
 
 
     
-![png](output_12_1.png)
+![png](/images/output_12_1.png)
     
 
 
@@ -1039,7 +1039,7 @@ plt.show()
 
 
     
-![png](output_13_1.png)
+![png](/images/output_13_1.png)
     
 
 
@@ -1086,7 +1086,7 @@ plt.show()
 
 
     
-![png](output_14_1.png)
+![png](/images/output_14_1.png)
     
 
 
@@ -1115,7 +1115,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](/images/output_15_0.png)
     
 
 
@@ -1152,7 +1152,7 @@ plt.show()
 
 
     
-![png](output_16_1.png)
+![png](/images/output_16_1.png)
     
 
 
@@ -1197,7 +1197,7 @@ plt.show()
 
 
     
-![png](output_17_1.png)
+![png](/images/output_17_1.png)
     
 
 
@@ -1226,7 +1226,7 @@ plt.show()
 
 
     
-![png](output_18_1.png)
+![png](/images/output_18_1.png)
     
 
 
@@ -1246,7 +1246,7 @@ sns.heatmap(df_cleaned.corr(), cmap = "Reds", annot=True, linewidth=3)
 
 
     
-![png](output_19_1.png)
+![png](/images/output_19_1.png)
     
 
 
@@ -1292,7 +1292,7 @@ plt.show()
 
 
     
-![png](output_20_2.png)
+![png](/images/output_20_2.png)
     
 
 
