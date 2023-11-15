@@ -1,4 +1,6 @@
 # Game-Sales-EDA
+Dataset Scraper: https://github.com/GregorUT/vgchartzScrape
+
 Jupyter Notebook of Game Sales Exploratory Data Analysis using seaborn, pandas. PDF and HTML files are also available.
 
 
